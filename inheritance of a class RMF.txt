@@ -1,0 +1,8 @@
+This project demonstrates the concept of class inheritance in C++. It includes a base class Parent and a derived class Child, showcasing how members and methods can be inherited and utilized in derived classes.
+
+Features
+Base Class: Parent contains a member variable and a method to print its ID.
+Derived Class: Child inherits from Parent and adds its own member variable and method.
+Encapsulation: Demonstrates encapsulation by using private member variables and constructors.
+Code Structure
+main.cpp: Contains the implementation of the Parent and Child classes, as well as the main() function that demonstrates their functionality.
