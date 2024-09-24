@@ -1,0 +1,12 @@
+This project demonstrates the concept of operator overloading in C++.
+It features a custom class Count that overloads the increment operator (++) to manipulate a private member variable representing a count. Both prefix and postfix increment operators are implemented.
+
+Features
+Class Definition: The Count class encapsulates a private integer value.
+Constructor: Initializes value to 5.
+Operator Overloading:
+Prefix increment (++count): Increases the count by 1.
+Postfix increment (count++): Also increases the count by 1 but returns the previous value.
+Display Method: Outputs the current value of the count.
+Code Structure
+main.cpp: Contains the implementation of the Count class, operator overloads, and the main() function that tests the functionality.
