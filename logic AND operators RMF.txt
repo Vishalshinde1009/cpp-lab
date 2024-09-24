@@ -1,0 +1,6 @@
+This project is a simple C++ program that checks if a user-provided integer falls within the range of 10 to 20. It continuously prompts the user for input until they choose to exit the program.
+Prompts the user to enter a number.
+Checks if the number is between 10 and 20 (inclusive).
+Provides feedback on whether the number is within the specified range.
+Allows the user to check multiple numbers without restarting the program.
+Exits gracefully when the user inputs a specific exit command.
