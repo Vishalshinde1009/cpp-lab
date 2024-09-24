@@ -1,0 +1,8 @@
+This program performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two integers inputted by the user. It provides an easy-to-use interface for performing these calculations and handles division by zero gracefully.
+
+Features
+Addition: Computes the sum of two integers.
+Subtraction: Computes the difference between two integers.
+Multiplication: Computes the product of two integers.
+Division: Computes the quotient of two integers, with handling for division by zero.
+Formatted Output: The division result is displayed with two decimal precision.
