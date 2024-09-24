@@ -1,0 +1,9 @@
+This C++ program prompts the user to enter three numbers and determines the largest among them.
+The program uses conditional logic to compare the numbers and outputs the largest value.
+
+Features
+Accepts three integer inputs from the user.
+Determines and displays the largest of the three numbers.
+Simple and user-friendly interface.
+When prompted, enter three integers.
+The program will display the largest of the three numbers.
