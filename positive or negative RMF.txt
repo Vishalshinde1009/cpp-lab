@@ -1,0 +1,7 @@
+This simple C++ program prompts the user to enter an integer and determines whether the number is positive or negative. It provides clear output to inform the user of the result.
+
+Features
+Prompts the user to enter an integer.
+Checks if the number is positive or negative.
+Displays the result clearly.When prompted, enter an integer.
+The program will determine and display whether the number is positive or negative.
