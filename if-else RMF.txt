@@ -1,0 +1,8 @@
+This C++ program prompts the user to enter their age and determines if they are an adult based on the input. If the age is 18 or older, the program will indicate that the user is an adult; otherwise, it will state that the user is not an adult.
+
+Features
+Prompts the user to enter their age.
+Checks if the user is an adult (18 years or older).
+Displays a message based on the user's age.
+When prompted, enter your age.
+The program will display whether you are an adult or not based on the input.
